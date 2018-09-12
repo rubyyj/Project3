@@ -25,6 +25,11 @@ img {
 #center{
 text-align: center;
  width: 60vw;
+ 
+}
+#center li{
+  text-decoration: none;
+
 }
 
 
