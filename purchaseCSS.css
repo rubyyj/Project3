@@ -25,6 +25,7 @@ img {
 #center{
 text-align: center;
  width: 60vw;
+ align-self: center;
  
 }
 #center li{
