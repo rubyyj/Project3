@@ -22,9 +22,10 @@ img {
   max-width: 100%;
 }
 
-#right{
-
+#center{
+text-align: center;
 }
+
 
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
